@@ -1,10 +1,17 @@
-### Hi I am Tuhin  👋
+## Hi I am Tuhin 👋
+A simple student who loves to code :keyboard: :keyboard: and a huge fan of :cricket_game: ⚡ `Trent Boult` ⚡ :cricket_game:.
 
+### I am comfortable with the following languages
+
+- :1st_place_medal: Python
+- :2nd_place_medal: Dart
+- :3rd_place_medal: Javascript 
+
+
+##### :alarm_clock: Currently working on
+ :money_with_wings: `Expense Tracker`
+ 
 <!--
-**tuuhin/tuuhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
