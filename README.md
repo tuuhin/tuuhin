@@ -1,20 +1,20 @@
-## Hi I am Tuhin 👋
+## :wave: Hi, I am Tuhin
 
 A simple student who loves to code :keyboard: :keyboard: and a huge fan of :cricket_game: ⚡ `Trent Boult` ⚡ :cricket_game:.
 
-### Confortable :waffle:
+### :waffle: I am comfortable with
 
 - :1st_place_medal: Python
 - :2nd_place_medal: Dart
 - :3rd_place_medal: Javascript
 
-### Learning :pencil:
+### :pencil: Currently leaning
 
-- JavaScript
+- JavaScript (Node.js)
 
-### :alarm_clock:Status
+### :alarm_clock: Project Status
 
-Currently A bit busy with the collage schedule
+Currently A bit busy now-a-days.Thus, couldn't provide time to the projects.
 
 <!--
 - 🔭 I’m currently working on ...
