@@ -1,16 +1,21 @@
 ## Hi I am Tuhin 👋
+
 A simple student who loves to code :keyboard: :keyboard: and a huge fan of :cricket_game: ⚡ `Trent Boult` ⚡ :cricket_game:.
 
-### I am comfortable with the following languages
+### Confortable :waffle:
 
 - :1st_place_medal: Python
 - :2nd_place_medal: Dart
-- :3rd_place_medal: Javascript 
+- :3rd_place_medal: Javascript
 
+### Learning :pencil:
 
-##### :alarm_clock: Currently working on
- :money_with_wings: `Expense Tracker`
- 
+- JavaScript
+
+### :alarm_clock:Status
+
+Currently A bit busy with the collage schedule
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
