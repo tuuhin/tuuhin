@@ -12,10 +12,9 @@ A simple student who loves to code :keyboard: :keyboard: and a huge fan of :cric
 
 - JavaScript (Node.js)
 
-### :alarm_clock: Project Status
+### :alarm_clock: Status
 
-Currently A bit busy now-a-days.Thus, couldn't provide time to the projects.
-
+Let's get back !!!! 😉
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
