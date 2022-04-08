@@ -1,20 +1,27 @@
 ## :wave: Hi, I am Tuhin
 
-A simple student who loves to code :keyboard: :keyboard: and a huge fan of :cricket_game: ⚡ `Trent Boult` ⚡ :cricket_game:.
+Hellow I am Tuhin, a simple student who loves to code ⌨️ 👩‍🦯 ⌨️ and a huge fan of 🏏⚡ `Trent Boult` ⚡ 🏏.
 
-### :waffle: I am comfortable with
+### 🧇 I am comfortable with
 
 - :1st_place_medal: Python
 - :2nd_place_medal: Dart
-- :3rd_place_medal: Javascript
+- :3rd_place_medal: Javascript (React)
 
-### :pencil: Currently leaning
+### 📝 Currently studying
 
-- JavaScript (Node.js)
+- 🥵 JavaScript and TypeScript (Node js)
+- 🥶 Go
 
 ### :alarm_clock: Status
 
-Let's get back !!!! 😉
+- #### 🚨 Current working project
+
+  Currently studing 🖋️
+
+- #### 📝 Last project
+  The last project was [afternotes](https://github.com/tuuhin/react_note_app) which is a note app made using react and firebase
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
