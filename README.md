@@ -20,9 +20,11 @@ Hellow I am Tuhin, a simple student who loves to code ⌨️ 👩‍🦯 ⌨️ 
   Currently studing 🖋️
 
 - #### 📝 Last project
-  The last project was [afternotes](https://github.com/tuuhin/react_note_app) which is a note app made using react and firebase
 
-<!--
+  The last project was [expense_tracker_backend](https://github.com/tuuhin/expense_tracker_backend). A backend rest api made using django and django-rest-framework made to track the financial life of the user.
+
+  <!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -31,4 +33,4 @@ Hellow I am Tuhin, a simple student who loves to code ⌨️ 👩‍🦯 ⌨️ 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
