@@ -10,20 +10,21 @@ Hellow I am Tuhin, a simple student who loves to code ⌨️ 👩‍🦯 ⌨️ 
 
 ### 📝 Currently studying
 
-- 🥵 JavaScript and TypeScript (Node js)
+- 😨 JavaScript and TypeScript
 - 🥶 Go
 
 ### :alarm_clock: Status
 
 - #### 🚨 Current working project
 
-  Currently studing 🖋️
+  [stopwatch](https://github.com/tuuhin/stopwatch) a flutter app , mainly a clock based app, the name says it's main feature.
 
 - #### 📝 Last project
 
   The last project was [expense_tracker_backend](https://github.com/tuuhin/expense_tracker_backend). A backend rest api made using django and django-rest-framework made to track the financial life of the user.
 
   <!--
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
