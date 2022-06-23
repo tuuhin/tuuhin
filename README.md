@@ -1,6 +1,6 @@
 ## :wave: Hi, I am Tuhin
 
-Hellow I am Tuhin, a simple student who loves to code ⌨️ 👩‍🦯 ⌨️ and a huge fan of 🏏⚡ `Trent Boult` ⚡ 🏏.
+A student who loves to code ⌨️ 👩‍🦯 ⌨️ ,enjoys cricket 🏏and a huge fan of ⚡ `Trent Boult` ⚡ .
 
 ### 🧇 I am comfortable with
 
@@ -8,20 +8,14 @@ Hellow I am Tuhin, a simple student who loves to code ⌨️ 👩‍🦯 ⌨️ 
 - :2nd_place_medal: Dart
 - :3rd_place_medal: Javascript (React)
 
-### 📝 Currently studying
+### 👷 Currently Working on
 
-- 😨 JavaScript and TypeScript
-- 🥶 Go
+- [stopwatch](https://github.com/tuuhin/stopwatch), a clock flutter based app
+- [expense_tracker](https://github.com/tuuhin/expense_tracker), a flutter app for maintaing your expenses.
 
-### :alarm_clock: Status
+#### 📝 Last project
 
-- #### 🚨 Current working project
-
-  [stopwatch](https://github.com/tuuhin/stopwatch) a flutter app , mainly a clock based app, the name says it's main feature.
-
-- #### 📝 Last project
-
-  The last project was [expense_tracker_backend](https://github.com/tuuhin/expense_tracker_backend). A backend rest api made using django and django-rest-framework made to track the financial life of the user.
+The last project was [expense_tracker_backend](https://github.com/tuuhin/expense_tracker_backend).
 
   <!--
 
