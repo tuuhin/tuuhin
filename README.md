@@ -3,8 +3,9 @@
 Been in the journey of code since mid 2018. It's 5 years I am enjoying it 😄.
 
 - 🧍  A Student who loves to make application targeting mobile and web (a little 🙃).
-- 🖥️  My portfolio at **[tuhinbhowmick.com](http://tuhinbhowmick.com)**
-- 🧠  I'm into Mobile Development with 🥇 **[Android](https://developer.android.com/)** and 🥈 **[Flutter](https://flutter.dev/)**,I am too into backend system
+- 🖥️  My portfolio at **[tuhinbhowmick.in](http://tuhinbhowmick.in)**
+- 🧠  I'm a Mobile Developer with 🥇 **[Android](https://developer.android.com/)** and 🥈 **[Flutter](https://flutter.dev/)**,
+- 🌉 A too love working and creating backend systems.
 
 ### Skills
 
